@@ -2,7 +2,7 @@
 
 # Locamais 🚗
 
-Bem-vindo ao Sistema de Gestão de Locadora de Veículos, uma solução abrangente para simplificar e otimizar o gerenciamento de uma locadora de automóveis para a empresa Locamais. Este projeto foi desenvolvido para proporcionar uma experiência eficiente e intuitiva, abrangendo a gestão de clientes, veículos e locações.
+A LocaMais é Sistema de Gestão de Locadora de Veículos, uma solução abrangente para simplificar e otimizar o gerenciamento de uma locadora de automóveis. Este projeto foi desenvolvido para proporcionar uma experiência eficiente e intuitiva, abrangendo a gestão de clientes, veículos e locações.
 
 ## Alunos integrantes da equipe
 
